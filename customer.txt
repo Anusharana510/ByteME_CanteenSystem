@@ -1,0 +1,10 @@
+an,an,an
+a,a,a
+a,a,a,Regular
+a,aa,aaa,Regular
+aa,aa,aa,Regular
+a,a,a,Regular
+aa,aa,aa,Regular
+a,a,a,Regular
+a,a,a,Regular
+a,a,a,Regular
